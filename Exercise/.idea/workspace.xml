@@ -28,6 +28,7 @@
   "keyToString": {
     "Application.BasicInput.executor": "Run",
     "Application.BasicOutput.executor": "Run",
+    "Application.JavaComments.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -37,7 +38,7 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BasicInput">
+  <component name="RunManager" selected="Application.JavaComments">
     <configuration name="BasicInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inputoutput.BasicInput" />
       <module name="Exercise" />
@@ -52,8 +53,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaComments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comments.JavaComments" />
+      <module name="Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaComments" />
         <item itemvalue="Application.BasicInput" />
         <item itemvalue="Application.BasicOutput" />
       </list>
