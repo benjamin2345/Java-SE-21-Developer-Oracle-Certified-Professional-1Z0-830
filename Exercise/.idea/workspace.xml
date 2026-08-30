@@ -14,10 +14,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IbSaVs2ItqbSIi0LjryrvnUzSi" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BasicInput.executor": "Run",
     "Application.BasicOutput.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -36,7 +37,14 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BasicInput">
+    <configuration name="BasicInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inputoutput.BasicInput" />
+      <module name="Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BasicOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inputoutput.BasicOutput" />
       <module name="Exercise" />
@@ -46,6 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicInput" />
         <item itemvalue="Application.BasicOutput" />
       </list>
     </recent_temporary>
