@@ -28,6 +28,7 @@
   "keyToString": {
     "Application.BasicInput.executor": "Run",
     "Application.BasicOutput.executor": "Run",
+    "Application.DataType.executor": "Run",
     "Application.JavaComments.executor": "Run",
     "Application.Variables.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -39,7 +40,7 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.DataType">
     <configuration name="BasicInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inputoutput.BasicInput" />
       <module name="Exercise" />
@@ -49,6 +50,13 @@
     </configuration>
     <configuration name="BasicOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inputoutput.BasicOutput" />
+      <module name="Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.DataType" />
       <module name="Exercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataType" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.JavaComments" />
         <item itemvalue="Application.BasicInput" />
