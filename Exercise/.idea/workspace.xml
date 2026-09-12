@@ -31,6 +31,7 @@
     "Application.DataType.executor": "Run",
     "Application.JavaComments.executor": "Run",
     "Application.JavaNumbers.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -41,14 +42,7 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.JavaNumbers">
-    <configuration name="BasicInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inputoutput.BasicInput" />
-      <module name="Exercise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TypeCasting">
     <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datatype.DataType" />
       <module name="Exercise" />
@@ -70,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.TypeCasting" />
+      <module name="Exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.Variables" />
       <module name="Exercise" />
@@ -79,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TypeCasting" />
         <item itemvalue="Application.JavaNumbers" />
         <item itemvalue="Application.DataType" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.JavaComments" />
-        <item itemvalue="Application.BasicInput" />
       </list>
     </recent_temporary>
   </component>
